@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Incline Gained</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Compute</string>
+    <string name="previous">Previous</string>
+    <string name="rise_feet_result">Inclined Gained (in feet)</string>
+    <string name="rise_metre_result">Inclined Gained (in meters)</string>
+    <string name="use_metric_choice">Metric System</string>
+    <string name="heading">Incline Gained Calculator</string>
+
+    <string name="grade_percent">Grade in %</string>
+
+    <string name="distance">Distance</string>
+</resources>
